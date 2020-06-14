@@ -3,6 +3,3 @@ Aplicación de Procesamiento del Lenguaje Natural a tweets de presidentes polít
 
 
 ![](sentimiento gif.gif)
-
-
-![](clustering gif.gif)
