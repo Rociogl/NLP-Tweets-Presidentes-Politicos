@@ -3,6 +3,6 @@ Aplicación de Procesamiento del Lenguaje Natural a tweets de presidentes polít
 
 ![](Collagepoliticos.png)
 
-![](Engagement.gif, width = 1000)
+![](Engagement.gif)
 
 ![](Clustering.gif)
