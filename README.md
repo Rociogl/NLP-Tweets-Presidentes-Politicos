@@ -2,4 +2,7 @@
 Aplicación de Procesamiento del Lenguaje Natural a tweets de presidentes políticos en español
 
 
-![](pablo.gif)
+![](sentimiento gif .gif)
+
+
+![](clustering gif .gif)
